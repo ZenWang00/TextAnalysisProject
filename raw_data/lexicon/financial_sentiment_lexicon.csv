@@ -1,0 +1,582 @@
+Word_or_Phrase,Sentiment_Score
+bullish,-0.9
+outperform expectations,-0.9
+miss expectations,-0.9
+buyout,-0.9
+hostile takeover,-0.9
+short selling,-0.9
+long position,-0.9
+margin call,-0.9
+liquidity crunch,-0.9
+stock buyback,-0.9
+debt restructuring,-0.9
+corporate scandal,-0.9
+whistleblower,-0.9
+dividend reinvestment,-0.9
+spin-off,-0.9
+stock dilution,-0.9
+reverse stock split,-0.8
+stock offering,-0.8
+asset sale,-0.8
+debt refinancing,-0.8
+credit rating upgrade,-0.8
+credit rating downgrade,-0.8
+share repurchase,-0.8
+insider selling,-0.8
+insider buying,-0.8
+capital raise,-0.8
+debt offering,-0.8
+stock lockup expiration,-0.8
+stock split,-0.8
+share consolidation,-0.8
+market capitalization,-0.8
+market leader,-0.8
+market laggard,-0.8
+blue-chip stock,-0.8
+penny stock,-0.8
+equity financing,-0.8
+debt financing,-0.8
+restructuring plan,-0.8
+shareholder activism,-0.8
+corporate governance,-0.8
+accounting irregularities,-0.7
+earnings restatement,-0.7
+share buyback,-0.7
+stock delisting,-0.7
+technical analysis,-0.7
+fundamental analysis,-0.7
+stock chart,-0.7
+trading volume,-0.7
+price action,-0.7
+resistance level,-0.7
+support level,-0.7
+breakout pattern,-0.7
+head and shoulders,-0.7
+double top,-0.7
+double bottom,-0.7
+moving average,-0.7
+trend line,-0.7
+momentum,-0.7
+stagnation,-0.7
+risk appetite,-0.7
+risk aversion,-0.7
+economic expansion,-0.7
+economic contraction,-0.7
+inflationary pressure,-0.7
+deflationary pressure,-0.7
+yield curve,-0.7
+inverted yield curve,-0.7
+quantitative easing,-0.7
+quantitative tightening,-0.7
+bearish,-0.7
+rally,-0.7
+plunge,-0.7
+surge,-0.7
+decline,-0.7
+profit,-0.7
+loss,-0.7
+invest,-0.7
+sell-off,-0.7
+buy,-0.7
+sell,-0.7
+growth,-0.7
+slump,-0.6
+volatility,-0.6
+market,-0.6
+recession,-0.6
+earnings,-0.6
+dividend,-0.6
+merger,-0.6
+acquisition,-0.6
+bankruptcy,-0.6
+regulation,-0.6
+recovery,-0.6
+inflation,-0.6
+deflation,-0.6
+stimulus,-0.6
+tariffs,-0.6
+unemployment,-0.6
+revenue,-0.6
+forecast,-0.6
+guidance,-0.6
+positive,-0.6
+negative,-0.6
+win,-0.6
+lose,-0.6
+high,-0.6
+low,-0.6
+up,-0.6
+down,-0.6
+bull,-0.6
+bear,-0.6
+strong,-0.6
+weak,-0.6
+boom,-0.6
+bust,-0.6
+optimistic,-0.6
+pessimistic,-0.6
+profits,-0.6
+declines,-0.6
+volatile,-0.6
+stable,-0.6
+gains,-0.6
+losses,-0.6
+optimism,-0.6
+pessimism,-0.6
+bearishness,-0.6
+trading,-0.6
+investing,-0.6
+buying,-0.6
+selling,-0.6
+profitable,-0.6
+unprofitable,-0.6
+upbeat,-0.6
+downturn,-0.6
+bullishness,-0.6
+bull market,-0.6
+bear market,-0.6
+bull run,-0.6
+bear run,-0.6
+market rally,-0.6
+market plunge,-0.6
+price surge,-0.5
+price decline,-0.5
+earnings growth,-0.5
+earnings decline,-0.5
+stock investment,-0.5
+sell-off panic,-0.5
+buying opportunity,-0.5
+selling pressure,-0.5
+market growth,-0.5
+market slump,-0.5
+economic recession,-0.5
+economic recovery,-0.5
+interest rate cut,-0.5
+trade agreement,-0.5
+trade dispute,-0.5
+government stimulus,-0.5
+government austerity,-0.5
+financial stability,-0.5
+financial crisis,-0.5
+company merger,-0.5
+company acquisition,-0.5
+regulatory approval,-0.5
+regulatory scrutiny,-0.5
+economic growth,-0.5
+economic downturn,-0.5
+global expansion,-0.5
+global recession,-0.5
+investor confidence,-0.5
+investor anxiety,-0.5
+company earnings,-0.5
+quarterly profit,-0.5
+revenue decline,-0.4
+market forecast,-0.4
+market guidance,-0.4
+economic sentiment,-0.4
+consumer confidence,-0.4
+business confidence,-0.4
+trading sentiment,-0.4
+investing sentiment,-0.4
+bullish sentiment,-0.4
+positive outlook,-0.4
+negative outlook,-0.4
+market confidence,-0.4
+market uncertainty,-0.4
+bullish trend,-0.4
+bearish trend,-0.4
+market strength,-0.4
+market weakness,-0.4
+profit potential,-0.4
+loss potential,-0.4
+market stability,-0.4
+market volatility,-0.4
+industry growth,-0.4
+skyrocket,-0.4
+crash,-0.4
+outperform,-0.4
+underperform,-0.4
+breakout,-0.4
+correction,-0.4
+overvalued,-0.4
+undervalued,-0.4
+IPO,-0.4
+delisting,-0.3
+split,-0.3
+reverse split,-0.3
+dividend increase,-0.3
+buyback,-0.3
+short squeeze,-0.3
+earnings beat,-0.3
+earnings miss,-0.3
+bullish divergence,-0.3
+bearish divergence,-0.3
+overbought,-0.3
+oversold,-0.3
+resistance zone,-0.3
+support zone,-0.3
+gap up,-0.3
+gap down,-0.3
+consolidation pattern,-0.3
+breakdown,-0.3
+breakout failure,-0.2
+dead cat bounce,-0.2
+bull trap,-0.2
+bear trap,-0.2
+cup and handle,-0.2
+flag pattern,-0.2
+pennant pattern,-0.2
+wedge pattern,-0.2
+ascending triangle,-0.2
+descending triangle,-0.2
+relative strength,-0.2
+market breadth,-0.2
+price channel,-0.2
+price range,-0.1
+market sentiment,0.1
+investor sentiment,0.1
+bearish sentiment,0.1
+fear index,0.1
+greed index,0.1
+market panic,0.1
+FOMO (Fear of Missing Out),0.2
+HODL (Hold On for Dear Life),0.2
+pump and dump,0.2
+stock manipulation,0.2
+market maker manipulation,0.2
+naked short selling,0.2
+gamma squeeze,0.2
+buy the dip,0.2
+sell the rip,0.2
+BTFD (Buy the F***ing Dip),0.2
+"FUDSTER (Fear, Uncertainty, and Doubt Spreader)",0.2
+to the moon,0.2
+rug pull,0.2
+diamond hands,0.2
+paper hands,0.2
+YOLO (You Only Live Once),0.2
+exit strategy,0.2
+stop loss,0.2
+take profit,0.2
+short covering,0.2
+day trading,0.2
+swing trading,0.2
+position trading,0.2
+scalping,0.2
+arbitrage,0.2
+hedging,0.3
+portfolio diversification,0.3
+risk-adjusted return,0.3
+alpha,0.3
+beta,0.3
+risk-free rate,0.3
+efficient market hypothesis,0.3
+technical trading,0.3
+corporate earnings,0.3
+profit warning,0.3
+revenue beat,0.3
+revenue miss,0.3
+guidance raise,0.3
+guidance cut,0.3
+job cuts,0.3
+hiring spree,0.3
+supply chain disruption,0.3
+product launch,0.3
+product recall,0.3
+activist investor,0.3
+proxy battle,0.3
+executive shake-up,0.3
+management reshuffle,0.3
+FDA approval,0.3
+regulatory setback,0.3
+legal battle,0.3
+lawsuit settlement,0.3
+antitrust probe,0.3
+market turmoil,0.3
+economic uncertainty,0.3
+interest rate hike,0.3
+rate cut,0.3
+trade war,0.3
+trade deal,0.3
+political tensions,0.3
+geopolitical risks,0.3
+cybersecurity breach,0.3
+data privacy scandal,0.3
+"ESG (Environmental, Social, and Governance) concerns",0.3
+sustainability initiatives,0.3
+market selloff,0.3
+IPO frenzy,0.3
+IPO flop,0.3
+dividend cut,0.3
+investor panic,0.3
+market euphoria,0.3
+market crash,0.4
+economic slowdown,0.4
+stock repurchase,0.4
+dividend payout,0.4
+dividend suspension,0.4
+insider trading,0.4
+accounting fraud,0.4
+SEC investigation,0.4
+friendly acquisition,0.4
+merger integration,0.4
+divestiture,0.4
+cost-cutting measures,0.4
+speculative stock,0.4
+growth stock,0.4
+value stock,0.4
+dividend stock,0.4
+cyclical stock,0.4
+defensive stock,0.4
+small-cap stock,0.4
+mid-cap stock,0.4
+large-cap stock,0.4
+sector rotation,0.4
+earnings multiple,0.4
+book value,0.4
+earnings per share (EPS),0.4
+dividend yield,0.4
+return on equity (ROE),0.4
+return on assets (ROA),0.4
+debt-to-equity ratio,0.4
+free cash flow,0.4
+operating margin,0.4
+net profit margin,0.4
+revenue growth,0.4
+bear market rally,0.4
+market correction,0.4
+flight to quality,0.4
+equity dilution,0.4
+share offering,0.4
+bond issuance,0.4
+bankruptcy filing,0.4
+corporate turnaround,0.4
+proxy fight,0.4
+boardroom battle,0.4
+executive compensation,0.4
+golden parachute,0.4
+poison pill,0.4
+going private,0.4
+initial coin offering (ICO),0.4
+cryptocurrency trading,0.4
+blockchain technology,0.4
+decentralized finance (DeFi),0.4
+non-fungible tokens (NFTs),0.4
+metaverse,0.4
+disruptive innovation,0.4
+game-changing technology,0.4
+unicorn startup,0.4
+venture capital,0.4
+initial public offering (IPO),0.4
+direct listing,0.4
+special purpose acquisition company (SPAC),0.4
+market maker,0.4
+high-frequency trading,0.4
+algorithmic trading,0.4
+dark pool,0.4
+front-running,0.4
+market manipulation,0.4
+regulatory crackdown,0.4
+compliance risk,0.4
+anti-trust probe,0.4
+price gouging,0.4
+windfall profits,0.5
+earnings surprise,0.5
+earnings disappointment,0.5
+revenue surprise,0.5
+revenue shortfall,0.5
+market exuberance,0.5
+market frenzy,0.5
+market meltdown,0.5
+market rout,0.5
+price target,0.5
+analyst upgrade,0.5
+analyst downgrade,0.5
+buy rating,0.5
+sell rating,0.5
+hold rating,0.5
+analyst coverage,0.5
+investment bank,0.5
+investment research,0.5
+research report,0.5
+portfolio manager,0.5
+asset management,0.5
+institutional investor,0.5
+retail investor,0.5
+day trader,0.5
+swing trader,0.5
+position trader,0.5
+scalper,0.5
+arbitrageur,0.5
+speculator,0.5
+contrarian investing,0.5
+value investing,0.5
+growth investing,0.5
+income investing,0.5
+active investing,0.5
+passive investing,0.5
+systematic investing,0.5
+fundamental trading,0.5
+momentum trading,0.5
+trend trading,0.5
+mean reversion,0.5
+volatility trading,0.5
+options trading,0.5
+futures trading,0.5
+forex trading,0.5
+commodity trading,0.5
+asset allocation,0.5
+risk management,0.5
+hedging strategies,0.5
+stop-loss order,0.5
+take-profit order,0.5
+trailing stop,0.5
+position sizing,0.5
+leverage,0.5
+margin trading,0.5
+blue-chip dividend stocks,0.5
+dividend aristocrats,0.5
+dividend growth investing,0.5
+dividend yield trap,0.5
+share buyback program,0.5
+management shakeup,0.5
+C-suite reshuffle,0.5
+shareholder revolt,0.5
+poison pill defense,0.5
+antitrust investigation,0.5
+price-fixing scandal,0.5
+whistleblower complaint,0.5
+environmental violations,0.5
+greenwashing,0.5
+climate change initiatives,0.5
+carbon footprint reduction,0.5
+renewable energy investments,0.5
+sustainable business practices,0.5
+circular economy model,0.5
+product stewardship,0.5
+ethical supply chain,0.6
+human rights violations,0.6
+child labor accusations,0.6
+forced labor allegations,0.6
+workplace discrimination,0.6
+gender pay gap,0.6
+diversity and inclusion initiatives,0.6
+employee well-being programs,0.6
+work-life balance policies,0.6
+remote work options,0.6
+flexible work arrangements,0.6
+gig economy workforce,0.6
+employee activism,0.6
+union organizing efforts,0.6
+labor strikes,0.6
+wage negotiations,0.6
+executive compensation scrutiny,0.6
+pay ratio disclosure,0.6
+clawback policies,0.6
+cybersecurity incident,0.6
+data breach,0.6
+ransomware attack,0.6
+phishing scam,0.6
+hacking attempt,0.6
+digital transformation strategy,0.6
+cloud migration,0.6
+artificial intelligence adoption,0.6
+machine learning applications,0.6
+big data analytics,0.6
+internet of things (IoT),0.6
+5G rollout,0.6
+quantum computing,0.6
+metaverse investments,0.6
+augmented reality (AR),0.6
+virtual reality (VR),0.6
+autonomous vehicles,0.6
+electric vehicle market,0.6
+energy storage solutions,0.6
+smart grid technologies,0.6
+precision agriculture,0.6
+urban farming,0.6
+vertical farming,0.6
+plant-based meat alternatives,0.6
+lab-grown meat,0.6
+sustainable fashion,0.6
+ethical sourcing,0.6
+fair trade practices,0.6
+circular economy,0.6
+zero-waste initiatives,0.6
+carbon capture technology,0.6
+renewable energy storage,0.6
+sustainable aviation fuel,0.6
+green hydrogen,0.6
+carbon offsetting,0.6
+carbon pricing,0.6
+emissions trading,0.6
+net-zero emissions target,0.6
+earnings accretion,0.6
+earnings dilution,0.6
+asset impairment,0.6
+goodwill writedown,0.6
+restructuring charges,0.6
+non-recurring expenses,0.6
+non-GAAP metrics,0.6
+pro forma earnings,0.6
+core earnings,0.6
+adjusted EBITDA,0.6
+cash earnings,0.6
+operating cash flow,0.6
+free cash flow yield,0.6
+capital allocation,0.6
+financial leverage,0.6
+interest coverage ratio,0.6
+credit quality,0.6
+bond refinancing,0.6
+covenant compliance,0.6
+bankruptcy risk,0.6
+going concern warning,0.6
+delisting risk,0.6
+rights offering,0.6
+follow-on offering,0.6
+SPAC merger,0.7
+lock-up expiration,0.7
+dual-class share structure,0.7
+voting rights,0.7
+white knight bidder,0.7
+strategic review,0.7
+asset divestiture,0.7
+business spinoff,0.7
+corporate carve-out,0.7
+reverse Morris trust,0.7
+synergy realization,0.7
+integration challenges,0.7
+antitrust scrutiny,0.7
+compliance violations,0.7
+price-fixing allegations,0.7
+corruption probe,0.7
+bribery accusations,0.7
+money laundering charges,0.7
+fraud investigation,0.7
+insider trading scandal,0.7
+SEC enforcement action,0.7
+class-action lawsuit,0.7
+patent infringement,0.7
+intellectual property dispute,0.7
+trade secret theft,0.7
+corporate espionage,0.7
+cyber attack,0.7
+ransomware incident,0.7
+network outage,0.7
+system failure,0.7
+business continuity,0.7
+disaster recovery,0.7
+crisis management,0.7
+reputation risk,0.7
+brand damage,0.7
+public relations crisis,0.7
+boycott campaign,0.7
+social media backlash,0.7
+quality control issues,0.7
+inventory shortage,0.8
+product backlog,0.8
+shipping delays,0.8
+logistics bottlenecks,0.8
+raw material shortages,0.8
+rising input costs,0.8
